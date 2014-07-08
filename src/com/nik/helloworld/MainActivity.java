@@ -12,6 +12,8 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		
 		//Originally added by niket.
+		
+		// edited by Devayani
 	}
 
 	@Override
